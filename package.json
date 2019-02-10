@@ -1,0 +1,23 @@
+{
+  "name": "asset-mgr",
+  "version": "0.1.0",
+  "description": "Helps manage online assets (accounts, etc)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmcq/asset-mgr.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/danielmcq/asset-mgr/issues"
+  },
+  "homepage": "https://github.com/danielmcq/asset-mgr#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
